@@ -2,7 +2,7 @@
 
 This tool will sign your payload file it's very simple to use.
 
-<img src="Screenshots/Start.png" width=400 align="center">
+<img src="Screenshots/FireSign.png" width=400 align="center">
 
 ### ❗ What is this ? ###
 
